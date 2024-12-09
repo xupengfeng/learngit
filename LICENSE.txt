@@ -1,1 +1,2 @@
 this is a test txt
+this is a test for reset HEAD
